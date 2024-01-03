@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Jest, Riverpod and Flutter**
 
-- 📝 I regularly write articles on [askfortricks.com](askfortricks.com)
+- 📝 I regularly write articles on [askfortricks.com](https://askfortricks.com)
 
 - 💬 Ask me about **flutter, android ,react native**
 
