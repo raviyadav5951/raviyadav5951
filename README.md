@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/raviyadav4875" target="blank"><img src="https://img.shields.io/twitter/follow/raviyadav4875?logo=twitter&style=for-the-badge" alt="raviyadav4875" /></a> </p>
 
-- 🔭 I’m currently working on Typescript(React native)
-
-- 🌱 I’m currently learning **Jest, Riverpod and Flutter**
+- 🔭 I’m currently working on Typescript(React native), Flutter apps
 
 - 📝 I regularly write articles on [askfortricks.com](https://askfortricks.com)
 
-- 💬 Ask me about **flutter, android ,react native**
+- 💬 Ask me about **flutter, android ,react native, javascript and react native**
 
 - 📫 How to reach me **raviyadav5951@gmail.com**
 
