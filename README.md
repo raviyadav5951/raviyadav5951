@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/raviyadav4875" target="blank"><img src="https://img.shields.io/twitter/follow/raviyadav4875?logo=twitter&style=for-the-badge" alt="raviyadav4875" /></a> </p>
 
-- 🔭 I’m currently working on [Flutter Riverpod](https://github.com/raviyadav5951/ecommerce_flutter)
+- 🔭 I’m currently working on Typescript(React native)
 
 - 🌱 I’m currently learning **Jest, Riverpod and Flutter**
 
